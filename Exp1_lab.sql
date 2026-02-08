@@ -1,5 +1,5 @@
 Microsoft Windows [Version 10.0.26100.7462]
-(c) Microsoft Corporation. All rights reserved.
+(c) Microsoft Corporation. All rights reserved
 
 C:\Users\HP>cd C:\xampp\mysql\bin
 
