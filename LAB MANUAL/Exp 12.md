@@ -1,6 +1,6 @@
 # EXPERIMENT-12
 
-## Q1. Q1. Display those employees whose salary is less than his manager but more than salary of any other managers.
+## Q1. Display those employees whose salary is less than his manager but more than salary of any other managers.
 ```sql
 MariaDB [Archisha]> SELECT E.ENAME FROM EMPLOYEE E
     -> JOIN EMPLOYEE M
@@ -38,7 +38,7 @@ MariaDB [Archisha]> SELECT COUNT(*) AS COUNT
 1 row in set (0.013 sec)
 ```
 
-## Q3. Q3. Display those managers who are not working under president but they are working under any other manager.
+## Q3. Display those managers who are not working under president but they are working under any other manager.
 ```sql
 MariaDB [Archisha]> SELECT E.ENAME
     -> FROM EMPLOYEE E
